@@ -1,4 +1,4 @@
-Multimedios-Proyect-1.0
+Multimedios-Proyect
 =======================
 
-Version 1.0(Modeling)
+Version 1.0
